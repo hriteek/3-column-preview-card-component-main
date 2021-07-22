@@ -60,6 +60,7 @@ p {
   border: none;
   padding: 1em 1.8em;
   border-radius: 10em;
+	background: var(--clr-gray);
 }
 
 .btn--primary-100 {
